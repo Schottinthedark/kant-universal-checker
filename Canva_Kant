@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Kant’s Universal-Law Checker</title>
+</head>
+<body style="font-family: sans-serif; text-align: center; padding: 2em;">
+
+  <h1>Kant’s Universal-Law Checker</h1>
+  
+  <div style="position: relative; width: 100%; max-width: 800px; height: 0; padding-top: 56.2225%;
+    padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin: 2em auto; overflow: hidden;
+    border-radius: 8px; will-change: transform;">
+    <iframe loading="lazy"
+      style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+      src="https://www.canva.com/design/DAGp6dBJG28/EfX8jtGRU4A60SqXTxZWig/view?embed"
+      allowfullscreen="allowfullscreen" allow="fullscreen">
+    </iframe>
+  </div>
+
+  <p>
+    <a href="https://www.canva.com/design/DAGp6dBJG28/EfX8jtGRU4A60SqXTxZWig/view"
+       target="_blank" rel="noopener">
+      Open in a new tab
+    </a>
+  </p>
+</body>
+</html>
